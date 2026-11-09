@@ -1,0 +1,14 @@
+torch==2.11.0
+pyarrow==19.0.0
+pandas==2.2.3
+polars==1.40.0
+lightgbm==4.6.0
+catboost==1.2.10
+scikit-learn==1.6.0
+loguru==0.7.3
+implicit==0.7.2
+ipykernel==7.2.0
+PyYAML==6.0.3
+mlflow==3.12.0
+boto3==1.43.0
+s3fs==2026.4.0
